@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Global Tax Reporting Map
 
-## Getting Started
+Enterprise AI platform for international tax transparency analysis using Retrieval-Augmented Generation (RAG), vector databases, multi-agent orchestration, and conversational AI.
 
-First, run the development server:
+## Features
+
+- AI-powered tax intelligence
+- Multi-agent reasoning system
+- Vector search using FAISS
+- FastAPI backend
+- Next.js frontend
+- Groq LLM integration
+- Interactive global transparency map
+- Conversational memory system
+
+## Tech Stack
+
+- Next.js
+- FastAPI
+- LangChain
+- FAISS
+- Groq API
+- HuggingFace Embeddings
+- TypeScript
+- Python
+
+## Run Locally
+
+### Frontend
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Global Tax Reporting Map
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Enterprise AI platform for international tax transparency analysis using Retrieval-Augmented Generation (RAG), vector databases, multi-agent orchestration, and conversational AI.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- AI-powered tax intelligence
+- Multi-agent reasoning system
+- Vector search using FAISS
+- FastAPI backend
+- Next.js frontend
+- Groq LLM integration
+- Interactive global transparency map
+- Conversational memory system
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js
+- FastAPI
+- LangChain
+- FAISS
+- Groq API
+- HuggingFace Embeddings
+- TypeScript
+- Python
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Run Locally
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Frontend
 
-## Deploy on Vercel
+```bash
+npm install
+npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# THEN SAVE
+
+and push again:
+
+```bash id="x7n3q5"
+git add .
+git commit -m "Update README"
+git push
