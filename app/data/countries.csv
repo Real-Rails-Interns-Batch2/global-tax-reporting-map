@@ -1,0 +1,25 @@
+name,status,adoptionYear,transparencyScore,reportingRisk
+Singapore,Active,2018,92,Low
+United Kingdom,Active,2016,95,Low
+Germany,Active,2017,94,Low
+Cayman Islands,Partial,2018,45,High
+United States,Active,2014,88,Medium
+Canada,Active,2017,90,Low
+France,Active,2016,89,Low
+Australia,Active,2017,91,Low
+Japan,Active,2018,87,Low
+China,Active,2018,72,Medium
+India,Active,2017,70,Medium
+Brazil,Active,2018,68,Medium
+United Arab Emirates,Partial,2018,60,Medium
+Switzerland,Active,2017,85,Medium
+Luxembourg,Active,2017,86,Medium
+Panama,Partial,2018,45,High
+Bahamas,Partial,2018,40,High
+Hong Kong,Active,2018,74,Medium
+South Korea,Active,2017,88,Low
+Netherlands,Active,2016,90,Low
+Ireland,Active,2016,89,Low
+Norway,Active,2016,93,Low
+Sweden,Active,2016,94,Low
+South Africa,Active,2017,69,Medium
