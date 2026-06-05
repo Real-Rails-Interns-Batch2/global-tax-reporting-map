@@ -1,0 +1,50 @@
+name,status,adoptionYear,transparencyScore,reportingRisk
+United States,Active,2010,85,Low
+United Kingdom,Active,2016,88,Low
+Germany,Active,2017,90,Low
+France,Active,2017,87,Low
+Japan,Active,2018,82,Low
+Canada,Active,2017,86,Low
+Australia,Active,2018,84,Low
+Switzerland,Active,2018,72,Medium
+Netherlands,Active,2016,89,Low
+Sweden,Active,2016,92,Low
+Norway,Active,2017,91,Low
+Denmark,Active,2016,90,Low
+Finland,Active,2017,91,Low
+Singapore,Active,2018,78,Medium
+Hong Kong,Active,2018,75,Medium
+India,Active,2017,70,Medium
+China,Active,2018,65,Medium
+Brazil,Active,2018,68,Medium
+South Africa,Active,2017,72,Medium
+Mexico,Active,2017,66,Medium
+Argentina,Active,2017,63,Medium
+Russia,Active,2018,55,High
+Cayman Islands,Non-Compliant,2017,30,High
+Panama,Non-Compliant,2018,28,High
+Bahamas,Non-Compliant,2017,32,High
+Bermuda,Partial,2018,45,High
+British Virgin Islands,Non-Compliant,2017,25,High
+Luxembourg,Active,2016,78,Medium
+Ireland,Active,2016,82,Low
+New Zealand,Active,2017,88,Low
+Spain,Active,2017,83,Low
+Italy,Active,2017,80,Low
+Portugal,Active,2017,81,Low
+Belgium,Active,2016,85,Low
+Austria,Active,2017,82,Low
+Poland,Active,2017,76,Medium
+Czech Republic,Active,2017,78,Medium
+Hungary,Active,2017,74,Medium
+Romania,Active,2018,68,Medium
+Greece,Active,2017,70,Medium
+Turkey,Active,2018,62,Medium
+Saudi Arabia,Partial,2018,55,High
+UAE,Partial,2018,58,High
+Qatar,Partial,2019,52,High
+Kuwait,Non-Compliant,2019,40,High
+Nigeria,Partial,2018,48,High
+Kenya,Partial,2019,55,High
+Ghana,Partial,2019,58,Medium
+Egypt,Partial,2018,52,High

@@ -14,16 +14,19 @@ from pydantic import BaseModel
 
 app = FastAPI(title="Global Tax Reporting API", version="1.0.0")
 
+_origins = os.getenv("CORS_ORIGINS", "http://localhost:3000,http://127.0.0.1:3000")
+ALLOWED_ORIGINS = [o.strip() for o in _origins.split(",") if o.strip()]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_origins=ALLOWED_ORIGINS,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 # ── Load countries from CSV ───────────────────────────────────────────────────
 BASE_DIR     = os.path.dirname(os.path.abspath(__file__))
-COUNTRIES_CSV = os.path.join(BASE_DIR, "..", "app", "data", "countries.csv")
+COUNTRIES_CSV = os.path.join(BASE_DIR, "data", "countries.csv")
 
 def load_countries():
     countries = []
